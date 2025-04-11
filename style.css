@@ -46,4 +46,20 @@
     .imagecontainer3{position: absolute;height:400 px;width:320px ; left: 712px; top: 870px;}
     .imagecontainer4{position: absolute;height:400 px;width:320px ;left: 1040px;top: 870px;}
     .whole_shop{padding-left: 50px;}
+    .thumbnails{padding: 60px 80px;}
+    .thumbnails a:hover img{ transform: scale(1.05); }
+    .AoT_collection a img{margin: 15px; border-radius: 8px; position: relative;}
+    .AoT_collection a:hover img{transform:scale(1.05);}
+    .price1{position: absolute;left: 65px; width: max-content; text-align: center;}
+    .price2{position: absolute;left: 380px; width: max-content; text-align: center;}
+    .price3{position: absolute;left: 750px;width: max-content; text-align: center;}
+    .price4{position: absolute;left: 1100px;width: max-content; text-align: center;}
+    .price1 a{text-decoration: none; color: black; position: relative;width: 200px;left: 50px;display: inline-block;}
+    .price1 a:hover{background-color: black;color: white;padding: 5px;border-radius: 5px;}
+    .price2 a{text-decoration: none; color: black;position: absolute;width: 200px;left: 70px;}
+    .price2 a:hover{background-color: black;color: white;padding: 5px;border-radius: 5px;}
+    .price3 a{text-decoration: none; color: black;position: absolute;width: 200px;left: 50px;}
+    .price3 a:hover{background-color: black;color: white;padding: 5px;border-radius: 5px;}
+    .price4 a{text-decoration: none; color: black;position: absolute;width: 200px;left: 20px;}
+    .price4 a:hover{background-color: black;color: white;padding: 5px;border-radius: 5px;}
 
